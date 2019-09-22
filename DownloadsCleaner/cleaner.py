@@ -4,7 +4,7 @@ import datetime
 import shutil
 
 
-dir = "F:\downloads"
+dir = "F:/downloads"
 files = os.listdir(dir)
 
 # Extensions for Categorizations
